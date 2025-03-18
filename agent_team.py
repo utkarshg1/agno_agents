@@ -38,6 +38,6 @@ agent_team = Agent(
 )
 
 agent_team.print_response(
-    "What are best companies to invest in Indian stock market for long term?",
+    "Which sector is expected to grow very fast in upcoming decade in India?",
     stream=True,
 )
