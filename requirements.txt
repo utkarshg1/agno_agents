@@ -5,3 +5,5 @@ seaborn
 ipykernel
 agno
 openai
+yfinance
+duckduckgo-search
